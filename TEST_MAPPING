@@ -1,15 +1,3 @@
-{
-  "presubmit": [
-    {
-      "name": "gtest_isolated_tests"
-    },
-    {
-      // Confirm GTEST_ALLOW_UNINSTANTIATED_PARAMETERIZED_TEST behavior
-      "name": "VtsHalBluetoothA2dpV1_0TargetTest"
-    },
-    {
-      // Confirm VTS test can pass
-      "name": "VtsHalPowerStatsV1_0TargetTest"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b090cb062ac571b939c430769bcd792e619fe6a0d5fb0a1c2a4a86c3b2895749
+size 304

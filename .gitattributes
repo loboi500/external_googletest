@@ -1,0 +1,17 @@
+googlemock filter=lfs diff=lfs merge=lfs -text
+googletest filter=lfs diff=lfs merge=lfs -text
+run_tests.py filter=lfs diff=lfs merge=lfs -text
+TEST_MAPPING filter=lfs diff=lfs merge=lfs -text
+BUILD.bazel filter=lfs diff=lfs merge=lfs -text
+ci filter=lfs diff=lfs merge=lfs -text
+CMakeLists.txt filter=lfs diff=lfs merge=lfs -text
+docs filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+WORKSPACE filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTORS filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTING.md filter=lfs diff=lfs merge=lfs -text
+library.json filter=lfs diff=lfs merge=lfs -text
